@@ -1,5 +1,5 @@
 streamlit
-metaplotlib
+matplotlib
 seaborn
 urlextract
 wordcloud
